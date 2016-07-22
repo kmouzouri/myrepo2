@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType confirmationNeeded="false" name="Default">
+    <contextParameter comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="Default Username"/>
+    <contextParameter comment="" name="Age" prompt="Age?" promptNeeded="false" type="id_Integer" value="11"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Dev">
+    <contextParameter comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="Dev Username"/>
+    <contextParameter comment="" name="Age" prompt="Age?" promptNeeded="false" type="id_Integer" value="12"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Prod">
+    <contextParameter comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="Prod Username"/>
+    <contextParameter comment="" name="Age" prompt="Age?" promptNeeded="false" type="id_Integer" value="13"/>
+  </talendfile:ContextType>
+</xmi:XMI>
